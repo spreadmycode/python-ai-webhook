@@ -27,3 +27,7 @@ It's a weather information fulfillment service that uses [Yahoo! Weather API](ht
 The services takes the `geo-city` parameter from the action, performs geolocation for the city and requests weather information from Yahoo! Weather public API.
 
 The service packs the result in the Dialogflow webhook-compatible response JSON and returns it to Dialogflow.
+
+This is developed by SpreadMyCode.
+Anybody who knows a little of python can use it freely.
+Let's enjoy!
